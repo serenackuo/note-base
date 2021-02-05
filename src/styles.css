@@ -28,7 +28,7 @@ a:visited {
 a:hover {
   background-color: pink;
   color: black;
-  border-color: palevioletred;
+  border-color: rgb(112, 166, 216);
 }
 
 a:active {
